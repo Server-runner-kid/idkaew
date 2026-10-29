@@ -1,0 +1,18 @@
+player_name: NJKITTENS
+language: en_US
+setlang: false
+deny_list: []
+last_location:
+  world: world
+  x: 78.86068294295708
+  y: 23.905875487567588
+  z: 206.8259354184511
+  yaw: 170.69952392578125
+  pitch: 66.90026092529297
+logout_location:
+  world: world
+  x: 44.566181721276244
+  y: 50.0
+  z: 202.04905065334984
+  yaw: 101.39950561523438
+  pitch: -82.49983978271484

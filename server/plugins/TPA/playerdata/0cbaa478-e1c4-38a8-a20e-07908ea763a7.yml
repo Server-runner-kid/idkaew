@@ -1,0 +1,34 @@
+player_name: GALAGOON
+language: en_US
+setlang: false
+default_home: home
+homes:
+  home:
+    world: world
+    x: 143.87869410173
+    y: 66.0
+    z: -1590.6960799699443
+    yaw: -131.6050567626953
+    pitch: 64.95000457763672
+  thing:
+    world: world
+    x: -504.415223188038
+    y: 63.0
+    z: 145.93979145355448
+    yaw: -123.89984130859375
+    pitch: 44.40007019042969
+deny_list: []
+last_location:
+  world: world
+  x: -447.51120079523594
+  y: 38.0
+  z: 5.321949625775042
+  yaw: -76.6512451171875
+  pitch: 12.450010299682617
+logout_location:
+  world: world
+  x: 147.35691085566296
+  y: 71.0
+  z: -1577.0975199639954
+  yaw: -66.35552978515625
+  pitch: 6.900028228759766

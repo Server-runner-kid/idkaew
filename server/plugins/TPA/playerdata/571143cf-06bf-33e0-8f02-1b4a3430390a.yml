@@ -1,0 +1,27 @@
+player_name: Agnet
+language: en_US
+setlang: false
+default_home: cave
+homes:
+  cave:
+    world: world
+    x: 1874.451577776098
+    y: -49.0
+    z: 996.6999999880791
+    yaw: 10.163495063781738
+    pitch: -5.250017166137695
+deny_list: []
+last_location:
+  world: world
+  x: 1879.687515842986
+  y: -51.0
+  z: 994.412513783169
+  yaw: 18.869873046875
+  pitch: 42.299930572509766
+logout_location:
+  world: world
+  x: -143.30000001192093
+  y: 53.0
+  z: 15.637397650965186
+  yaw: -123.90043640136719
+  pitch: -63.45002365112305

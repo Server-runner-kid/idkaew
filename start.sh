@@ -1,0 +1,2 @@
+cd server
+sudo java -jar server.jar

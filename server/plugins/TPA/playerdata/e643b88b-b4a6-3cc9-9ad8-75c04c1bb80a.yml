@@ -1,0 +1,41 @@
+player_name: Hqdes
+language: en_US
+setlang: false
+default_home: city
+homes:
+  city:
+    world: world
+    x: 289.1199151068776
+    y: -51.0
+    z: 128.97272960368397
+    yaw: 164.4993438720703
+    pitch: 41.08151626586914
+  eli:
+    world: world
+    x: -338.0814674156825
+    y: 64.5625
+    z: 339.93729003914285
+    yaw: -28.336746215820312
+    pitch: 23.655029296875
+  village:
+    world: world
+    x: -1535.961348833604
+    y: 77.5625
+    z: 79.61721898279279
+    yaw: -152.10545349121094
+    pitch: 90.0
+deny_list: []
+last_location:
+  world: world
+  x: -1535.327852414934
+  y: 77.5625
+  z: 79.12436558373538
+  yaw: 31.176605224609375
+  pitch: 87.26817321777344
+logout_location:
+  world: world
+  x: -342.2453442675108
+  y: 49.0
+  z: 338.3425346933863
+  yaw: -104.49634552001953
+  pitch: 32.54497528076172

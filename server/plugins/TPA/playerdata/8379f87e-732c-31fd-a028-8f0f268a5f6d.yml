@@ -1,0 +1,11 @@
+player_name: HqdesHeisbasedou
+language: en_US
+setlang: false
+deny_list: []
+logout_location:
+  world: world
+  x: -1.5
+  y: 114.0
+  z: 3.5
+  yaw: 0.7500001192092896
+  pitch: 0.4500000476837158

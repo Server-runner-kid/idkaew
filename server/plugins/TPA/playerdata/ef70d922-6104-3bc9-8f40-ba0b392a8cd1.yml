@@ -1,0 +1,11 @@
+player_name: sir_chance
+language: en_US
+setlang: false
+deny_list: []
+logout_location:
+  world: world
+  x: 73.99084605836973
+  y: 73.9375
+  z: 188.0240096043017
+  yaw: 63.449798583984375
+  pitch: 49.50007247924805

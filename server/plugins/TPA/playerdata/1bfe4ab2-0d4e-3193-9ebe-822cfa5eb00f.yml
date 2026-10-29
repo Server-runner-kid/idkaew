@@ -1,0 +1,11 @@
+player_name: TotemIncari84
+language: en_US
+setlang: false
+deny_list: []
+logout_location:
+  world: world
+  x: 3.5
+  y: 119.0
+  z: -5.5
+  yaw: 0.0
+  pitch: -0.15000002086162567

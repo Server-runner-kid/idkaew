@@ -1,0 +1,34 @@
+player_name: yellowhorse
+language: en_US
+setlang: false
+default_home: home
+homes:
+  home:
+    world: world
+    x: -167.39862470018787
+    y: 128.0
+    z: 284.2255665216106
+    yaw: -77.85031127929688
+    pitch: 35.55002212524414
+  outside:
+    world: world
+    x: -175.63529283057093
+    y: 125.0
+    z: 245.0220347831781
+    yaw: 177.44976806640625
+    pitch: 30.749998092651367
+deny_list: []
+last_location:
+  world: world
+  x: -149.34818509547486
+  y: 126.0
+  z: 270.3991553987484
+  yaw: 74.24896240234375
+  pitch: -11.099982261657715
+logout_location:
+  world: world
+  x: -167.39862470018787
+  y: 128.0
+  z: 284.2255665216106
+  yaw: -79.0503158569336
+  pitch: 34.20002365112305

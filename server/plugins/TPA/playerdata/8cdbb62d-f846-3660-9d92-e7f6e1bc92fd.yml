@@ -1,0 +1,42 @@
+player_name: Jayden_Angulp
+language: en_US
+setlang: false
+default_home: baseabove
+homes:
+  baseabove:
+    world: world
+    x: -54.30000001192093
+    y: 91.0
+    z: 120.69999998807907
+    yaw: 148.9290771484375
+    pitch: 11.099993705749512
+  mine:
+    world: world
+    x: -85.07008307089072
+    y: 12.0
+    z: 516.8389885213405
+    yaw: 24.88018798828125
+    pitch: 29.25014877319336
+  newbase:
+    world: world
+    x: 1.699999988079071
+    y: -25.0
+    z: 499.63747008865795
+    yaw: -1.81298828125
+    pitch: 17.250160217285156
+deny_list:
+- ae4ae149-9053-3421-9724-223d2e1bbc5d
+last_location:
+  world: world
+  x: 4.5
+  y: 119.0
+  z: -3.5
+  yaw: -76.6500244140625
+  pitch: 38.099998474121094
+logout_location:
+  world: world
+  x: 8.5
+  y: 119.0
+  z: -9.5
+  yaw: 0.0
+  pitch: 0.0

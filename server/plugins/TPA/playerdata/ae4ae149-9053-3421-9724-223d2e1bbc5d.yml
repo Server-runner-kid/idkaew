@@ -1,0 +1,41 @@
+player_name: Uxeless
+language: en_US
+setlang: false
+default_home: Portal
+homes:
+  Portal:
+    world: world
+    x: 23.16838850031698
+    y: -54.0
+    z: 253.17942112920568
+    yaw: 66.07794189453125
+    pitch: 27.300004959106445
+  base?:
+    world: world
+    x: -337.6590398639705
+    y: 64.0
+    z: 339.60592510359317
+    yaw: 135.19677734375
+    pitch: 23.69976234436035
+  awdaw:
+    world: world
+    x: 200.5
+    y: -51.0
+    z: 38.5
+    yaw: -87.14999389648438
+    pitch: 14.99999713897705
+deny_list: []
+last_location:
+  world: world
+  x: -343.5267337065271
+  y: 49.0
+  z: 339.4846724361078
+  yaw: -154.6036376953125
+  pitch: 7.0499958992004395
+logout_location:
+  world: world
+  x: -12.613499320025676
+  y: -59.0
+  z: 255.69467112707517
+  yaw: 66.9780502319336
+  pitch: 31.049875259399414
